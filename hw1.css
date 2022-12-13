@@ -1,0 +1,17 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 16px;
+}
+
+body {
+    background-color: rgb(147, 144, 170);
+}
+
+p {
+    color: rgb(255, 34, 34);
+    font-style: italic;
+}
